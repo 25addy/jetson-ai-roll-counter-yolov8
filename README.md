@@ -2,6 +2,8 @@
 
 AI camera-based roll counting system running on **NVIDIA Jetson Orin Nano**, using YOLOv8, OpenCV, PySide6 touchscreen UI, TensorRT model inference, and optional MySQL production logging.
 
+![AI Roll Counter System Overview](system-overview.png.png)
+
 ## Features
 
 - Real-time roll detection using YOLOv8
